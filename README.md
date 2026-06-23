@@ -44,7 +44,6 @@ Entender como variam os preços de aluguel de acordo com **cidade, área, númer
 
 ```
 ├── dashboard-alugueis.pbix   # arquivo do Power BI (abra no Power BI Desktop)
-├── imagens/                  # prints das páginas do dashboard
 └── README.md                 # este arquivo
 ```
 
